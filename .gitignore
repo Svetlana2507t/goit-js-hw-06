@@ -128,3 +128,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+other-tasks.js
+filter-find.js
+every-some-reduce.js
+to-sorted.js
